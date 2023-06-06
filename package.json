@@ -1,0 +1,16 @@
+{
+  "name": "anatomic-restana",
+  "version": "0.3.0",
+  "files": [
+    "index.js",
+    "lib"
+  ],
+  "main": "index.js",
+  "repository": "github:add1ed/anatomic-restana",
+  "author": "add1ed",
+  "license": "ISC",
+  "dependencies": {
+    "restana": "4.9.6",
+    "tiny-json-body-parser": "1.0.2"
+  }
+}
